@@ -1,19 +1,14 @@
 ---
 layout: page
-title: Welcome to Lagrange!
+title: John Ong
 permalink: /about
+image: prof_pic.jpg
 ---
 
-Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+I am currently a third-year undergraduate student at the University of Utah, studying Mathematics(with an emphasis in Statistics), and minoring in Computer Science. My primary interests are in statistical inference methods, probability, and topology. 
 
-### Getting Started
+For my entire life, I've lived in Salt Lake City, Utah, United States of America. Unlike others in my state who embrace the red rocks, mountains, snow, lakes, and intense inversions, I spent my youth indoors focused on my studies and some after school programs such as Speech and Debate and First Lego League. Through this time, I accrued a reputation among my teammates as "The Bad Cop" or "The Tyrant." 
 
-[Getting Started]({{ site.github.url }}{% post_url 2015-10-10-getting-started %}): getting started with installing Lagrange, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
+In my free time, I enjoy light reading, learning about advancements in computer hardware, and learning about obscure subjects. My current obscure subject of interest is [The Warring States of China](https://en.wikipedia.org/wiki/Warring_States_period).
 
-### Example Content
-
-[Text and Formatting]({{ site.github.url }}{% post_url 2014-01-01-text-formatting-examples %})
-
-### Questions?
-
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Lagrange%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new).
+My preferred pronouns are he/him/his.
