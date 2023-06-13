@@ -1,9 +1,9 @@
 <head>
   <title>
     {% if page.title == "Home" %}
-      {{ site.title }} | {{ site.description }}
+      {{ site.title }} {{ "by John Ong" }}
     {% else %}
-      {{ page.title }} | {{ site.title }}
+      {{ page.title }}
     {% endif %}
   </title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
