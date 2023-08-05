@@ -9,7 +9,7 @@ google-ID:
 menu:
 - {name: 'Home', url: 'index.html'}
 - {name: 'About',   url: 'about.html'}
-- {name: 'Blog', url: 'blog.html'}
+# - {name: 'Blog', url: 'blog.html'}
 - {name: 'CV', url: 'assets/files/June 2023 CV.pdf'}
 
 
