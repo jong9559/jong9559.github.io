@@ -10,7 +10,7 @@ menu:
 - {name: 'Home', url: 'index.html'}
 - {name: 'About',   url: 'about.html'}
 # - {name: 'Blog', url: 'blog.html'}
-- {name: 'CV', url: 'assets/files/June 2023 CV.pdf'}
+- {name: 'Resume', url: 'assets/files/August_2023_Resume.pdf'}
 
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
