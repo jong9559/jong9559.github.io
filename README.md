@@ -1,5 +1,5 @@
 # About
-This repository houses my portfolio site. I use the ![Lagrange theme](https://github.com/LeNPaul/Lagrange) provided by ![LeNPaul](https://github.com/LeNPaul). 
+This repository houses my portfolio site. I use the ![Lagrange theme](https://github.com/LeNPaul/Lagrange) by ![LeNPaul](https://github.com/LeNPaul) et al. 
 
 ## Credits
 
