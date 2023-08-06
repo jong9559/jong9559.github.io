@@ -45,20 +45,6 @@ This repository houses my portfolio site. I use the ![Lagrange theme](https://gi
 
 * [borting](https://github.com/borting)
 
-### Icons + Demo Images
-
-* [Death to Stock](https://deathtothestockphoto.com/)
-
-* [Font Awesome](http://fontawesome.io/)
-
-### Other
-
-* [Jekyll](https://jekyllrb.com/)
-
-* [Free Code Camp](https://www.freecodecamp.org)
-
-* [Khan Academy](https://www.khanacademy.org/)
-
 ## License
 
 Open sourced under the [MIT license](https://github.com/LeNPaul/Lagrange/blob/gh-pages/LICENSE.md).
