@@ -15,7 +15,7 @@ menu:
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'linkdin', link: 'https://www.linkedin.com/in/john-ong/'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/john-ong/'}
 # Customize site text
 pagination:
   next_page: 'Newer'
