@@ -10,12 +10,13 @@ menu:
 - {name: 'Home', url: 'index.html'}
 - {name: 'About',   url: 'about.html'}
 # - {name: 'Blog', url: 'blog.html'}
-- {name: 'Resume', url: 'assets/files/August_2023_Resume.pdf'}
+- {name: 'Resume', url: 'assets/files/Ong_John_Resume.pdf'}
 
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/john-ong/'}
+- {icon: 'github', link: 'https://github.com/jong9559'}
 # Customize site text
 pagination:
   next_page: 'Newer'
